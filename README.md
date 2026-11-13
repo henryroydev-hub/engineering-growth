@@ -45,7 +45,7 @@ This repository documents my continuous improvement as a software engineer, with
 ## 🔗 Connect
 
 - GitHub: https://github.com/henryroydev-hub
-- LinkedIn: [(https://www.linkedin.com/in/henry-roy-61a27a1b4)]
+- LinkedIn: https://www.linkedin.com/in/henry-roy-61a27a1b4
 
 ---
 
